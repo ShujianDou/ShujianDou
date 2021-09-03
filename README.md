@@ -31,5 +31,5 @@ im sorry for the mad amount of &nbsp; i put, and for the unreadability. it's wha
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShujianDou&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/ShujianDou">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShujianDou&show_icons=true&theme=dark&line_height=27" alt="Alexandre's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShujianDou&show_icons=true&theme=dark&line_height=27" alt="Shu"/>
 </a>
