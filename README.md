@@ -26,3 +26,10 @@ im sorry for the mad amount of &nbsp; i put, and for the unreadability. it's wha
 
 <br>
 <i>&nbsp;&nbsp;&nbsp;&nbsp;Check out our organization <a href="https://github.com/vrienstudios">VrienStudios/Cadinia</a>, we'd love to meet you!</i>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ShujianDou">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShujianDou&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/ShujianDou">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShujianDou&show_icons=true&theme=dark&line_height=27" alt="Alexandre's github stats"/>
+</a>
