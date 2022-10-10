@@ -1,7 +1,5 @@
-<!-- to anyone who dared to read this markdown file... 
-im sorry for the mad amount of &nbsp; i put, and for the unreadability. it's what markdown limitations put me to do... -->
 <img src="https://avatars.githubusercontent.com/u/13159328?v=4" align="right" alt="Github profile picture"><br>
 # ShuJainDou/Chay
-* Programmer from Florida, since 2015
-* Languages: Nim, C#, C++, Python
+* Languages I know: Nim, C#, C++, Python
+* I got into software development, when I was around 14; I've mainly started working in Nim, but my language of choice is C#. I love Linux, and I only use Windows for modded games, which don't work very well in WINE. Sadly, I'm stuck with a dualboot setup rather than a vm, due to the bulkinesss of newer GPU's and the lack of cooling for two separate cards.
 <br>
