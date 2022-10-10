@@ -3,10 +3,9 @@ im sorry for the mad amount of &nbsp; i put, and for the unreadability. it's wha
 <img src="https://avatars.githubusercontent.com/u/13159328?v=4" align="right" alt="Github profile picture"><br>
 # ShuJainDou/Chay
 * Programmer from Florida, since 2015
-* Languages: C#, C++, Python
-* Pronouns: He/Him, 19
+* Languages: Nim, C#, C++, Python
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Mainly software oriented; my mission is to convert our always online life to offline.!<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Mainly software oriented; my mission is to convert our always online life to offline.<br>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;If you'd like to know more about me, you can message me anywhere anytime; it really does not matter, and I like hearing from people every now and then.
 <br><br>
